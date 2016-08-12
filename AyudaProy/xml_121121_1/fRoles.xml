@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Form Name="fRoles" Text="Roles" WindowSize="511, 233" ClientAreaOffset="9, 38" BorderStyle="2" HasMap="True" PicFileName="images\fRoles.png" HtmlFileName="fRoles.htm" SourceProjectType="VB.NET" SourceProjectName="Proyecto" OriginalClassName="VB.NET" HWND="4523984">
+  <Body>
+    <Controls>
+      <Label Name="Label5" Caption="Rol" Bookmark="Label5" Description="" ClassName="Label" TabIndex="13" HotSpot="25,155,54,172" />
+      <TextBox Name="txtRol" Caption="Rol" Bookmark="Label5" Description="" ClassName="TextBox" TabIndex="15" HotSpot="109,151,364,173" />
+      <Panel Name="pnlEdicion" Caption="Edicion" Bookmark="pnlEdicion" Description="" ClassName="Panel" TabIndex="71" PicFileName="images\pnlEdicion.png" HotSpot="428,55,491,168">
+        <Controls>
+          <Button Name="btnAgregar" Caption="btnAgregar" Bookmark="btnAgregar" Description="" ClassName="Button" TabIndex="51" HotSpot="4,9,60,55" />
+          <Button Name="btnEliminar" Caption="btnEliminar" Bookmark="btnEliminar" Description="" ClassName="Button" TabIndex="52" HotSpot="4,62,60,106" />
+        </Controls>
+      </Panel>
+      <Button Name="btnRegresar" Caption="btnRegresar" Bookmark="btnRegresar" Description="" ClassName="Button" TabIndex="72" HotSpot="430,175,486,219" />
+      <ComboBox Name="cmbMaxId" Caption="idAsignado" Bookmark="Label1" Description="" ClassName="ComboBox" TabIndex="77" HotSpot="109,116,269,140" />
+      <Label Name="Label1" Caption="idAsignado" Bookmark="Label1" Description="" ClassName="Label" TabIndex="78" HotSpot="25,119,103,136" />
+      <TextBox Name="txtIdRol" Caption="idRol" Bookmark="Label2" Description="" ClassName="TextBox" TabIndex="79" HotSpot="109,75,241,97" />
+      <Label Name="Label2" Caption="idRol" Bookmark="Label2" Description="" ClassName="Label" TabIndex="80" HotSpot="25,79,65,96" />
+      <Label Name="errores" Caption="." Bookmark="errores" Description="" ClassName="Label" TabIndex="82" HotSpot="25,49,37,66" />
+    </Controls>
+  </Body>
+</Form>

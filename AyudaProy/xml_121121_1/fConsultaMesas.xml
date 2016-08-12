@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Form Name="fConsultaMesas" Text="Mesas" WindowSize="935, 470" ClientAreaOffset="9, 38" BorderStyle="2" HasMap="True" PicFileName="images\fConsultaMesas.png" HtmlFileName="fConsultaMesas.htm" SourceProjectType="VB.NET" SourceProjectName="Proyecto" OriginalClassName="VB.NET" HWND="2950492">
+  <Body>
+    <Controls>
+      <Label Name="Label1" Caption="Selecciona una mesa para tomar la orden" Bookmark="Label1" Description="" ClassName="Label" TabIndex="2" HotSpot="24,63,349,83" />
+      <Panel Name="pnlEdicion" Caption="Edicion" Bookmark="pnlEdicion" Description="" ClassName="Panel" TabIndex="70" PicFileName="images\pnlEdicion.png" HotSpot="28,103,157,174">
+        <Controls>
+          <Button Name="btnAgregar" Caption="btnAgregar" Bookmark="btnAgregar" Description="" ClassName="Button" TabIndex="51" HotSpot="4,4,60,59" />
+          <Button Name="btnEliminar" Caption="btnEliminar" Bookmark="btnEliminar" Description="" ClassName="Button" TabIndex="52" HotSpot="68,4,124,59" />
+        </Controls>
+      </Panel>
+      <Label Name="lblMensajes" Caption="." Bookmark="lblMensajes" Description="" ClassName="Label" TabIndex="71" HotSpot="28,47,40,64" />
+    </Controls>
+  </Body>
+</Form>

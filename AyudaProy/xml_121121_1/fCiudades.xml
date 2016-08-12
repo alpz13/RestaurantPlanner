@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Form Name="fCiudades" Text="Ciudades" WindowSize="519, 286" ClientAreaOffset="9, 38" BorderStyle="2" HasMap="True" PicFileName="images\fCiudades.png" HtmlFileName="fCiudades.htm" SourceProjectType="VB.NET" SourceProjectName="Proyecto" OriginalClassName="VB.NET" HWND="3541078">
+  <Body>
+    <Controls>
+      <Label Name="Label1" Caption="Ciudad" Bookmark="Label1" Description="" ClassName="Label" TabIndex="0" HotSpot="82,61,134,78" />
+      <Label Name="Label2" Caption="Estado" Bookmark="Label2" Description="" ClassName="Label" TabIndex="1" HotSpot="82,111,134,128" />
+      <TextBox Name="txtCiudad" Caption="Ciudad" Bookmark="Label1" Description="" ClassName="TextBox" TabIndex="2" HotSpot="158,53,318,75" />
+      <ComboBox Name="cmbEstado" Caption="Estado" Bookmark="Label2" Description="" ClassName="ComboBox" TabIndex="3" HotSpot="158,101,318,125" />
+      <Panel Name="pnlEdicion" Caption="Edicion" Bookmark="pnlEdicion" Description="" ClassName="Panel" TabIndex="66" PicFileName="images\pnlEdicion.png" HotSpot="416,54,479,172">
+        <Controls>
+          <Button Name="btnAgregar" Caption="btnAgregar" Bookmark="btnAgregar" Description="" ClassName="Button" TabIndex="51" HotSpot="4,9,60,55" />
+          <Button Name="btnEliminar" Caption="btnEliminar" Bookmark="btnEliminar" Description="" ClassName="Button" TabIndex="52" HotSpot="4,62,60,106" />
+        </Controls>
+      </Panel>
+      <Button Name="btnRegresar" Caption="btnRegresar" Bookmark="btnRegresar" Description="" ClassName="Button" TabIndex="68" HotSpot="420,178,476,222" />
+      <Panel Name="Panel1" Caption="Panel1" Bookmark="Panel1" Description="" ClassName="Panel" TabIndex="72" PicFileName="images\Panel1.png" HotSpot="158,143,338,180">
+        <Controls>
+          <ComboBox Name="cmbMax" Caption="Max" Bookmark="cmbMax" Description="" ClassName="ComboBox" TabIndex="70" HotSpot="4,4,164,28" />
+        </Controls>
+      </Panel>
+      <Label Name="Label3" Caption="id a Eliminar" Bookmark="Label3" Description="" ClassName="Label" TabIndex="75" HotSpot="52,215,137,232" />
+      <TextBox Name="txtId" Caption="id a Eliminar" Bookmark="Label3" Description="" ClassName="TextBox" TabIndex="76" HotSpot="158,212,314,234" />
+      <Label Name="Label4" Caption="idAsignado" Bookmark="Label4" Description="" ClassName="Label" TabIndex="77" HotSpot="57,164,135,181" />
+    </Controls>
+  </Body>
+</Form>

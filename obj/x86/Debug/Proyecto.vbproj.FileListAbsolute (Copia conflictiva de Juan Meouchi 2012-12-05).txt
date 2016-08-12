@@ -1,0 +1,864 @@
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.vbproj.GenerateResource.Cache
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComanda.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComanda.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marco David\Desktop\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComanda.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alejandro\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComanda.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.vbproj.GenerateResource.Cache
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComanda.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Juan Pablo\Dropbox\Proyecto\TEMPORAL\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marco David\Desktop\lab17\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.vbprojResolveAssemblyReference.cache
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marco David\Desktop\Nueva carpeta\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marco David\Desktop\Nueva carpeta\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\Nueva carpeta\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\Nueva carpeta\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marco David\Desktop\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alejandro\Dropbox\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.vbprojResolveAssemblyReference.cache
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.vbproj.GenerateResource.Cache
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\proyecto 9_11_2012\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marco David\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.vbprojResolveAssemblyReference.cache
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alejandro\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\13_11_2012\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marco David\Desktop\Proyecto\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\El actualizado\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\El actualizado\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\El actualizado\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\Proyecto\El actualizado\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\El actualizado\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\El actualizado\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\El actualizado\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Juan Pablo\Dropbox\Proyecto\Proyecto\El actualizado\Proyecto\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alejandro\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.vbprojResolveAssemblyReference.cache
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.vbproj.GenerateResource.Cache
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fconfiguraciones.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fComandaIndividual.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fTipoComida.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fTipoMesa.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fPrivilegios.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marco David\Dropbox\Proyecto\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Juan Pablo\Dropbox\Proyecto\ProyectoFinal\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\ProyectoFinal\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marco David\Desktop\Nueva carpeta (2)\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Erick\Desktop\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Erick\Desktop\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Erick\Desktop\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Erick\Desktop\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.vbprojResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Erick\Desktop\Proyecto\obj\x86\Debug\Proyecto.vbproj.GenerateResource.Cache
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.790.tlog
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.891.tlog
+C:\Users\Marco David\Desktop\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.921.tlog
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.790.tlog
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.891.tlog
+C:\Users\Alejandro\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.921.tlog
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.vbprojResolveAssemblyReference.cache
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Erick\Dropbox\Documentos\#ITESM V\Bases de datos\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.vbproj.GenerateResource.Cache
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.xml
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fConsultaMesas.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fDescuentos.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fCiudades.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fClientes.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fEmpleados.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMain.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fMesas.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fComandaMesa.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fOrden.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fReportes.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fRoles.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.fProductos.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.LoginScreen.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Resources.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.SplashScreen.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\Proyecto.Visor.resources
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.790.tlog
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.891.tlog
+C:\Users\Juan Pablo\Dropbox\Proyecto\PoyectoFinalBD\ProyectoFinal\Proyecto\obj\x86\Debug\GenerateResource.write.921.tlog

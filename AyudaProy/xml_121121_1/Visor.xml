@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Form Name="Visor" Text="Visor" WindowSize="697, 550" ClientAreaOffset="9, 38" BorderStyle="2" HasMap="True" PicFileName="images\Visor.png" HtmlFileName="Visor.htm" SourceProjectType="VB.NET" SourceProjectName="Proyecto" OriginalClassName="VB.NET" HWND="1706582">
+  <Body>
+    <Controls>
+      <CrystalDecisions.Windows.Forms.CrystalReportViewer Name="crvViewer" Caption="Viewer" Bookmark="crvViewer" Description="" ClassName="CrystalDecisions.Windows.Forms.CrystalReportViewer" TabIndex="0" HotSpot="9,38,688,541" />
+    </Controls>
+  </Body>
+</Form>

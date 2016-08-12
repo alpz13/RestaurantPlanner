@@ -1,0 +1,10 @@
+C:\Users\Erick\Desktop\Proyecto\AyudaProy\Visor.htm|0
+C:\Users\Erick\Desktop\Proyecto\AyudaProy\SplashScreen.htm|0
+C:\Users\Erick\Desktop\Proyecto\AyudaProy\LoginScreen.htm|0
+C:\Users\Erick\Desktop\Proyecto\AyudaProy\fProductos.htm|0
+C:\Users\Erick\Desktop\Proyecto\AyudaProy\fRoles.htm|0
+C:\Users\Erick\Desktop\Proyecto\AyudaProy\fReportes.htm|0
+C:\Users\Erick\Desktop\Proyecto\AyudaProy\fOrden.htm|0
+C:\Users\Erick\Desktop\Proyecto\AyudaProy\fComandaMesa.htm|0
+C:\Users\Erick\Desktop\Proyecto\AyudaProy\fMesas.htm|0
+C:\Users\Erick\Desktop\Proyecto\AyudaProy\fEmpleados.htm|0

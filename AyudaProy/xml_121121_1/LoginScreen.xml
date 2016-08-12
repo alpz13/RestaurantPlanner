@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Form Name="LoginScreen" Text="Control de Acceso" WindowSize="567, 193" ClientAreaOffset="9, 38" BorderStyle="2" HasMap="True" PicFileName="images\LoginScreen.png" HtmlFileName="LoginScreen.htm" SourceProjectType="VB.NET" SourceProjectName="Proyecto" OriginalClassName="VB.NET" HWND="4458082">
+  <Body>
+    <Controls>
+      <Label Name="Label1" Caption="Usuario" Bookmark="Label1" Description="" ClassName="Label" TabIndex="6" HotSpot="92,90,149,107" />
+      <Label Name="Label2" Caption="Contraseña" Bookmark="Label2" Description="" ClassName="Label" TabIndex="7" HotSpot="68,119,149,136" />
+      <TextBox Name="txtUsuario" Caption="Usuario" Bookmark="Label1" Description="" ClassName="TextBox" TabIndex="8" HotSpot="150,84,342,106" />
+      <TextBox Name="TxtPass" Caption="Contraseña" Bookmark="Label2" Description="" ClassName="TextBox" TabIndex="9" HotSpot="150,116,347,138" />
+      <Button Name="btnValidar" Caption="Validar" Bookmark="btnValidar" Description="" ClassName="Button" TabIndex="10" HotSpot="352,77,452,105" />
+      <Button Name="btnLimpiar" Caption="Limpiar" Bookmark="btnLimpiar" Description="" ClassName="Button" TabIndex="11" HotSpot="352,107,452,135" />
+      <Label Name="lblResultadoValidacion" Caption="." Bookmark="lblResultadoValidacion" Description="" ClassName="Label" TabIndex="12" HotSpot="70,52,82,69" />
+    </Controls>
+  </Body>
+</Form>

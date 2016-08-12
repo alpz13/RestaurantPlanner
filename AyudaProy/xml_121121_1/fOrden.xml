@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Form Name="fOrden" Text="Productos" WindowSize="715, 659" ClientAreaOffset="9, 38" BorderStyle="2" HasMap="True" PicFileName="images\fOrden.png" HtmlFileName="fOrden.htm" SourceProjectType="VB.NET" SourceProjectName="Proyecto" OriginalClassName="VB.NET" HWND="1378100">
+  <Body>
+    <Controls>
+      <TabControl Name="tabOrden" Caption="Orden" Bookmark="tabOrden" Description="" ClassName="TabControl" TabIndex="0" HotSpot="29,380,540,635" />
+      <Label Name="lblProductos" Caption="Productos" Bookmark="lblProductos" Description="" ClassName="Label" TabIndex="1" HotSpot="25,347,97,364" />
+      <Label Name="lblMensajes" Caption="lblMensajes" Bookmark="lblMensajes" Description="" ClassName="Label" TabIndex="1" HotSpot="118,49,118,66" />
+      <TabControl Name="TabControl1" Caption="Tab Control1" Bookmark="TabControl1" Description="" ClassName="TabControl" TabIndex="2" HotSpot="29,69,540,339">
+        <Controls>
+          <TabPage Name="TabControl1_0" Caption="Tab Control1_0" Bookmark="TabControl1_0" Description="" ClassName="TabPage" TabIndex="2" PicFileName="images\TabControl1_0.png" HotSpot="29,69,540,339" TabPageTab="20,31,50,20" TabPageIndex="0" />
+        </Controls>
+      </TabControl>
+      <Button Name="btnMenos" Caption="btnMenos" Bookmark="btnMenos" Description="" ClassName="Button" TabIndex="3" HotSpot="574,196,627,245" />
+      <Button Name="btnRetirar" Caption="Retirar" Bookmark="btnRetirar" Description="" ClassName="Button" TabIndex="4" HotSpot="574,267,691,295" />
+      <Button Name="btnMas" Caption="btnMas" Bookmark="btnMas" Description="" ClassName="Button" TabIndex="5" HotSpot="638,196,691,245" />
+      <Label Name="Label1" Caption="Disminuir/Aumentar" Bookmark="Label1" Description="" ClassName="Label" TabIndex="10" HotSpot="570,176,701,193" />
+      <Button Name="btnRegresar" Caption="btnRegresar" Bookmark="btnRegresar" Description="" ClassName="Button" TabIndex="57" HotSpot="601,455,657,499" />
+    </Controls>
+  </Body>
+</Form>

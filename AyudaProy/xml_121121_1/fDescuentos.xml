@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Form Name="fDescuentos" Text="Descuentos" WindowSize="599, 237" ClientAreaOffset="9, 38" BorderStyle="2" HasMap="True" PicFileName="images\fDescuentos.png" HtmlFileName="fDescuentos.htm" SourceProjectType="VB.NET" SourceProjectName="Proyecto" OriginalClassName="VB.NET" HWND="2556944">
+  <Body>
+    <Controls>
+      <Panel Name="pnlEdicion" Caption="Edicion" Bookmark="pnlEdicion" Description="" ClassName="Panel" TabIndex="76" PicFileName="images\pnlEdicion.png" HotSpot="514,52,577,164">
+        <Controls>
+          <Button Name="btnAgregar" Caption="btnAgregar" Bookmark="btnAgregar" Description="" ClassName="Button" TabIndex="51" HotSpot="4,9,60,55" />
+          <Button Name="btnEliminar" Caption="btnEliminar" Bookmark="btnEliminar" Description="" ClassName="Button" TabIndex="52" HotSpot="4,62,60,106" />
+        </Controls>
+      </Panel>
+      <Button Name="btnRegresar" Caption="btnRegresar" Bookmark="btnRegresar" Description="" ClassName="Button" TabIndex="77" HotSpot="518,170,574,214" />
+      <Label Name="Label1" Caption="Descuento" Bookmark="Label1" Description="" ClassName="Label" TabIndex="78" HotSpot="74,150,150,167" />
+      <ComboBox Name="cmbDescuentos" Caption="Descuento" Bookmark="Label1" Description="" ClassName="ComboBox" TabIndex="79" HotSpot="240,150,427,174" />
+      <Label Name="Label3" Caption="Producto" Bookmark="Label3" Description="" ClassName="Label" TabIndex="80" HotSpot="74,90,139,107" />
+      <ComboBox Name="cmbProductos" Caption="Producto" Bookmark="Label3" Description="" ClassName="ComboBox" TabIndex="81" HotSpot="240,86,427,110" />
+    </Controls>
+  </Body>
+</Form>

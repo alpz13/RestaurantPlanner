@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Form Name="fProductos" Text="Productos" WindowSize="657, 510" ClientAreaOffset="9, 38" BorderStyle="2" HasMap="True" PicFileName="images\fProductos.png" HtmlFileName="fProductos.htm" SourceProjectType="VB.NET" SourceProjectName="Proyecto" OriginalClassName="VB.NET" HWND="2754752">
+  <Body>
+    <Controls>
+      <TextBox Name="Nombre" Caption="Nombre" Bookmark="Label3" Description="" ClassName="TextBox" TabIndex="1" HotSpot="158,87,547,130" />
+      <Label Name="Label3" Caption="Nombre" Bookmark="Label3" Description="" ClassName="Label" TabIndex="3" HotSpot="34,87,92,104" />
+      <Label Name="Label4" Caption="Descripción" Bookmark="Label4" Description="" ClassName="Label" TabIndex="4" HotSpot="34,148,116,165" />
+      <Label Name="Label5" Caption="Precio Actual" Bookmark="Label5" Description="" ClassName="Label" TabIndex="5" HotSpot="34,261,125,278" />
+      <Label Name="Label6" Caption="Foto" Bookmark="Label6" Description="" ClassName="Label" TabIndex="6" HotSpot="37,343,73,360" />
+      <TextBox Name="Descripcion" Caption="Descripción" Bookmark="Label4" Description="" ClassName="TextBox" TabIndex="7" HotSpot="158,145,547,247" />
+      <TextBox Name="PrecioAnual" Caption="Precio Actual" Bookmark="Label5" Description="" ClassName="TextBox" TabIndex="8" HotSpot="158,261,342,283" />
+      <Panel Name="pnlOtros" Caption="Otros" Bookmark="pnlOtros" Description="" ClassName="Panel" TabIndex="51" PicFileName="images\pnlOtros.png" HotSpot="350,261,547,439">
+        <Controls>
+          <Button Name="btnDescuento" Caption="Descuento" Bookmark="btnDescuento" Description="" ClassName="Button" TabIndex="46" HotSpot="27,26,171,54" />
+          <Button Name="btnTipoProductos" Caption="Tipos de Productos" Bookmark="btnTipoProductos" Description="" ClassName="Button" TabIndex="47" HotSpot="27,62,171,90" />
+          <Button Name="btnCambiar" Caption="Buscar Imagen" Bookmark="btnCambiar" Description="" ClassName="Button" TabIndex="82" HotSpot="27,102,171,130" />
+          <Button Name="btnModificar" Caption="Modificar" Bookmark="btnModificar" Description="" ClassName="Button" TabIndex="83" HotSpot="27,138,171,166" />
+        </Controls>
+      </Panel>
+      <Panel Name="pnlEdicion" Caption="Edicion" Bookmark="pnlEdicion" Description="" ClassName="Panel" TabIndex="52" PicFileName="images\pnlEdicion.png" HotSpot="564,289,628,391">
+        <Controls>
+          <Button Name="btnAgregar" Caption="btnAgregar" Bookmark="btnAgregar" Description="" ClassName="Button" TabIndex="51" HotSpot="4,4,60,46" />
+          <Button Name="btnEliminar" Caption="btnEliminar" Bookmark="btnEliminar" Description="" ClassName="Button" TabIndex="52" HotSpot="4,54,60,97" />
+        </Controls>
+      </Panel>
+      <Button Name="btnRegresar" Caption="btnRegresar" Bookmark="btnRegresar" Description="" ClassName="Button" TabIndex="76" HotSpot="568,138,624,182" />
+      <Button Name="btnBuscar" Caption="btnBuscar" Bookmark="btnBuscar" Description="" ClassName="Button" TabIndex="77" HotSpot="568,88,624,130" />
+      <Button Name="btnDeshacer" Caption="btnDeshacer" Bookmark="btnDeshacer" Description="" ClassName="Button" TabIndex="78" HotSpot="568,191,624,235" />
+      <Button Name="btnClear" Caption="btnClear" Bookmark="btnClear" Description="" ClassName="Button" TabIndex="79" HotSpot="568,241,624,285" />
+      <Label Name="errores" Caption="." Bookmark="errores" Description="" ClassName="Label" TabIndex="80" HotSpot="37,52,49,69" />
+      <PictureBox Name="Foto" Caption="Foto" Bookmark="Foto" Description="" ClassName="PictureBox" TabIndex="81" PicFileName="images\Foto.png" HotSpot="158,343,343,483" />
+      <Label Name="Label1" Caption="Tipo de Comida" Bookmark="Label1" Description="" ClassName="Label" TabIndex="82" HotSpot="34,306,141,323" />
+      <ComboBox Name="cboTipoComida" Caption="Tipo de Comida" Bookmark="Label1" Description="" ClassName="ComboBox" TabIndex="83" HotSpot="158,295,342,319" />
+    </Controls>
+  </Body>
+</Form>

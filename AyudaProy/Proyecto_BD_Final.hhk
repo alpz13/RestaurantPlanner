@@ -1,0 +1,609 @@
+﻿<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<!-- Sitemap 1.0 -->
+<!-- Put Java help object tag here -->
+</HEAD>
+<BODY>
+<UL>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value=".">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fConsultaMesas.htm">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+            <param name="Name" value="Control del Restaurante">
+            <param name="Local" value="fMain.htm">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+            <param name="Name" value="Roles">
+            <param name="Local" value="fRoles.htm">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+            <param name="Name" value="Control de Acceso">
+            <param name="Local" value="LoginScreen.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="7330.3023264_52">
+            <param name="Name" value="Control del Restaurante">
+            <param name="Local" value="fMain.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="a">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Agregar Ciudad">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="btnAgregar">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fConsultaMesas.htm">
+            <param name="Name" value="Descuentos">
+            <param name="Local" value="fDescuentos.htm">
+            <param name="Name" value="Ciudades">
+            <param name="Local" value="fCiudades.htm">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fMesas.htm">
+            <param name="Name" value="Comanda Mesa">
+            <param name="Local" value="fComandaMesa.htm">
+            <param name="Name" value="Roles">
+            <param name="Local" value="fRoles.htm">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="btnAgregaUs">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="btnBuscar">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fMesas.htm">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="btnClear">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fMesas.htm">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="btnDeshacer">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="btnEliminar">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fConsultaMesas.htm">
+            <param name="Name" value="Descuentos">
+            <param name="Local" value="fDescuentos.htm">
+            <param name="Name" value="Ciudades">
+            <param name="Local" value="fCiudades.htm">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fMesas.htm">
+            <param name="Name" value="Comanda Mesa">
+            <param name="Local" value="fComandaMesa.htm">
+            <param name="Name" value="Roles">
+            <param name="Local" value="fRoles.htm">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="btnFacturar">
+            <param name="Name" value="Comanda Mesa">
+            <param name="Local" value="fComandaMesa.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="btnMas">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fOrden.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="btnMenos">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fOrden.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="btnModificar">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fMesas.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="btnPagar">
+            <param name="Name" value="Comanda Mesa">
+            <param name="Local" value="fComandaMesa.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="btnRegresar">
+            <param name="Name" value="Descuentos">
+            <param name="Local" value="fDescuentos.htm">
+            <param name="Name" value="Ciudades">
+            <param name="Local" value="fCiudades.htm">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+            <param name="Name" value="Comanda Mesa">
+            <param name="Local" value="fComandaMesa.htm">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fOrden.htm">
+            <param name="Name" value="Roles">
+            <param name="Local" value="fRoles.htm">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Buscar Imagen">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Button1">
+            <param name="Name" value="Comanda Mesa">
+            <param name="Local" value="fComandaMesa.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="C. P.">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Cantidad">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Capacidad de Personas">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fMesas.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Ciudad">
+            <param name="Name" value="Ciudades">
+            <param name="Local" value="fCiudades.htm">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Ciudades">
+            <param name="Local" value="fCiudades.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Colonia">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Comanda Mesa">
+            <param name="Local" value="fComandaMesa.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Comenzar">
+            <param name="Name" value="Comanda Mesa">
+            <param name="Local" value="fComandaMesa.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Contrase&#241;a">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+            <param name="Name" value="Control de Acceso">
+            <param name="Local" value="LoginScreen.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Control de Acceso">
+            <param name="Local" value="LoginScreen.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Control del Restaurante">
+            <param name="Local" value="fMain.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Correo">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Descripci&#243;n">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Descuento">
+            <param name="Name" value="Descuentos">
+            <param name="Local" value="fDescuentos.htm">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Descuentos">
+            <param name="Local" value="fDescuentos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Details Layout Panel">
+            <param name="Name" value="SplashScreen">
+            <param name="Local" value="SplashScreen.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Direcci&#243;n">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Disminuir&#47;Aumentar">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fOrden.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Edicion">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fConsultaMesas.htm">
+            <param name="Name" value="Descuentos">
+            <param name="Local" value="fDescuentos.htm">
+            <param name="Name" value="Ciudades">
+            <param name="Local" value="fCiudades.htm">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fMesas.htm">
+            <param name="Name" value="Roles">
+            <param name="Local" value="fRoles.htm">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Entre">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Estado">
+            <param name="Name" value="Ciudades">
+            <param name="Local" value="fCiudades.htm">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+            <param name="Name" value="Comanda Mesa">
+            <param name="Local" value="fComandaMesa.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Estado de Mesa">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fMesas.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Facturar">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Folio">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Foto">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Gestor de Restaurantes">
+            <param name="Name" value="SplashScreen">
+            <param name="Local" value="SplashScreen.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="GMAD Software Solutions">
+            <param name="Name" value="SplashScreen">
+            <param name="Local" value="SplashScreen.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Grupo">
+            <param name="Name" value="Comanda Mesa">
+            <param name="Local" value="fComandaMesa.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="id a Eliminar">
+            <param name="Name" value="Ciudades">
+            <param name="Local" value="fCiudades.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="idAsignado">
+            <param name="Name" value="Ciudades">
+            <param name="Local" value="fCiudades.htm">
+            <param name="Name" value="Roles">
+            <param name="Local" value="fRoles.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="idRol">
+            <param name="Name" value="Roles">
+            <param name="Local" value="fRoles.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="lblFolio">
+            <param name="Name" value="Comanda Mesa">
+            <param name="Local" value="fComandaMesa.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="lblMensajes">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fMesas.htm">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fOrden.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="lblTotal">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fMesas.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Limpiar">
+            <param name="Name" value="Control de Acceso">
+            <param name="Local" value="LoginScreen.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Main Layout Panel">
+            <param name="Name" value="SplashScreen">
+            <param name="Local" value="SplashScreen.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Max">
+            <param name="Name" value="Ciudades">
+            <param name="Local" value="fCiudades.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Mayor">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Menor">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Mesas">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fConsultaMesas.htm">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fMesas.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Modificar">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Nombre">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Nomina">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="N&#250;mero de Mesa">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fMesas.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Orden">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fOrden.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Otros">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Panel1">
+            <param name="Name" value="Ciudades">
+            <param name="Local" value="fCiudades.htm">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Panel2">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Periodo">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Persona a pagar">
+            <param name="Name" value="Comanda Mesa">
+            <param name="Local" value="fComandaMesa.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Precio Actual">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Producto">
+            <param name="Name" value="Descuentos">
+            <param name="Local" value="fDescuentos.htm">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Productos">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fOrden.htm">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Provedores Binding Navigator">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Puesto">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Recordatorio">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Reporte">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Retirar">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fOrden.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="RFC">
+            <param name="Name" value="Clientes">
+            <param name="Local" value="fClientes.htm">
+            <param name="Name" value="fReportes">
+            <param name="Local" value="fReportes.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Rol">
+            <param name="Name" value="Roles">
+            <param name="Local" value="fRoles.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="RolAsignado">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Roles">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+            <param name="Name" value="Roles">
+            <param name="Local" value="fRoles.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Selecciona una mesa para tomar la orden">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fConsultaMesas.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="SplashScreen">
+            <param name="Local" value="SplashScreen.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Tab Control1">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fOrden.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Tab Control1_0">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fOrden.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Tel&#233;fono">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Terminar">
+            <param name="Name" value="Comanda Mesa">
+            <param name="Local" value="fComandaMesa.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Tipo de Comida">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Tipo de Mesa">
+            <param name="Name" value="Mesas">
+            <param name="Local" value="fMesas.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Tipos de Productos">
+            <param name="Name" value="Productos">
+            <param name="Local" value="fProductos.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Usuario">
+            <param name="Name" value="Empleados">
+            <param name="Local" value="fEmpleados.htm">
+            <param name="Name" value="Control de Acceso">
+            <param name="Local" value="LoginScreen.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Validar">
+            <param name="Name" value="Control de Acceso">
+            <param name="Local" value="LoginScreen.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Versi&#243;n 21&#47;10&#47;12">
+            <param name="Name" value="SplashScreen">
+            <param name="Local" value="SplashScreen.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Viewer">
+            <param name="Name" value="Visor">
+            <param name="Local" value="Visor.htm">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Visor">
+            <param name="Local" value="Visor.htm">
+        </OBJECT>
+</UL></BODY>
+</HTML>

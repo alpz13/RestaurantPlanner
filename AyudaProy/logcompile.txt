@@ -1,0 +1,112 @@
+﻿Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Users\Erick\AppData\Local\Temp\ympcrnf0.2it\Proyecto_BD_Final.chm
+
+HHC5003: Error: Compilation failed while compiling ï»¿fMain.htm.
+forms.htm
+HHC3004: Warning: fConsultaMesas.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+fConsultaMesas.htm
+HHC3004: Warning: fDescuentos.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+fDescuentos.htm
+HHC3004: Warning: fCiudades.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+fCiudades.htm
+HHC3004: Warning: fClientes.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+fClientes.htm
+HHC3004: Warning: fEmpleados.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+fEmpleados.htm
+HHC3004: Warning: fMesas.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+fMesas.htm
+HHC3004: Warning: fComandaMesa.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+fComandaMesa.htm
+HHC3004: Warning: fOrden.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+fOrden.htm
+HHC3004: Warning: fReportes.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+fReportes.htm
+HHC3004: Warning: fRoles.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+fRoles.htm
+HHC3004: Warning: fProductos.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+fProductos.htm
+HHC3004: Warning: LoginScreen.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+LoginScreen.htm
+SplashScreen.htm
+HHC3004: Warning: Visor.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+Visor.htm
+css\style.css
+images\fmain.png
+images\fconsultamesas.png
+images\fdescuentos.png
+images\fciudades.png
+images\fclientes.png
+images\fempleados.png
+images\fmesas.png
+images\fcomandamesa.png
+images\forden.png
+images\freportes.png
+images\froles.png
+images\fproductos.png
+images\loginscreen.png
+images\splashscreen.png
+images\visor.png
+HHC5003: Error: Compilation failed while compiling icons\..
+HHC5003: Error: Compilation failed while compiling icons\...
+icons\1.png
+icons\2.png
+icons\3.png
+icons\4.png
+icons\5.png
+icons\6.png
+icons\7.png
+icons\8.png
+icons\9.png
+icons\concept.png
+icons\concept16.png
+icons\concept24.png
+icons\concept32.png
+icons\Download.htm
+icons\download.png
+icons\download16.png
+icons\download24.png
+icons\download32.png
+icons\example.png
+icons\example16.png
+icons\example24.png
+icons\example32.png
+icons\favicon.ico
+icons\help.png
+icons\help16.png
+icons\help24.png
+icons\help32.png
+icons\note.png
+icons\note16.png
+icons\note24.png
+icons\note32.png
+icons\overview.png
+icons\overview16.png
+icons\overview24.png
+icons\overview32.png
+icons\procedure.png
+icons\procedure16.png
+icons\procedure24.png
+icons\procedure32.png
+icons\related.png
+icons\related16.png
+icons\related24.png
+icons\related32.png
+icons\tip.png
+icons\tip16.png
+icons\tip24.png
+icons\tip32.png
+icons\warning.png
+icons\warning16.png
+icons\warning24.png
+icons\warning32.png
+HHC3004: Warning: fMain.htm : The HTML tag "?xml:namespace prefix="o" ns="urn:schemas-microsof..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+fMain.htm
+Proyecto_BD_Final.hhc
+Proyecto_BD_Final.hhk
+
+
+The following files were not compiled:
+ï»¿fMain.htm
+icons\.
+icons\..

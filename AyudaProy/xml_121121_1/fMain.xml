@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Form Name="fMain" Text="Control del Restaurante" WindowSize="1285, 781" ClientAreaOffset="9, 38" BorderStyle="2" HasMap="True" PicFileName="images\fMain.png" HtmlFileName="fMain.htm" SourceProjectType="VB.NET" SourceProjectName="Proyecto" OriginalClassName="VB.NET" HWND="1509840">
+  <Menus>
+    <MenuStrip Name="MenuStrip1" Caption="MenuStrip1" Bookmark="MenuStrip1">
+      <ToolStripControls>
+        <ToolStripMenuItem Name="MesasToolStripMenuItem" Caption="Mesas" Bookmark="Mesas" />
+        <ToolStripMenuItem Name="ProductosToolStripMenuItem" Caption="Productos" Bookmark="Productos" />
+        <ToolStripMenuItem Name="ClientesToolStripMenuItem" Caption="Clientes" Bookmark="Clientes" />
+        <ToolStripMenuItem Name="EmpleadosToolStripMenuItem" Caption="Empleados" Bookmark="Empleados" />
+        <ToolStripMenuItem Name="ReportesToolStripMenuItem" Caption="Reportes" Bookmark="Reportes" />
+        <ToolStripMenuItem Name="CerrarSesiónToolStripMenuItem" Caption="Cerrar Sesión" Bookmark="Cerrar Sesión" />
+      </ToolStripControls>
+    </MenuStrip>
+  </Menus>
+  <Body>
+    <Controls>
+      <Label Name="errores" Caption="." Bookmark="errores" Description="" ClassName="Label" TabIndex="51" HotSpot="758,38,770,55" />
+      <MdiClient Name="7330.3023264_52" Caption="7330.3023264_52" Bookmark="7330.3023264_52" Description="" ClassName="MdiClient" TabIndex="52" HotSpot="9,66,1276,772" />
+    </Controls>
+  </Body>
+</Form>

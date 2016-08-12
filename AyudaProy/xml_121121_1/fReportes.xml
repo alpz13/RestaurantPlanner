@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Form Name="fReportes" Text="fReportes" WindowSize="957, 821" ClientAreaOffset="9, 38" BorderStyle="2" HasMap="True" PicFileName="images\fReportes.png" HtmlFileName="fReportes.htm" SourceProjectType="VB.NET" SourceProjectName="Proyecto" OriginalClassName="VB.NET" HWND="1574858">
+  <Body>
+    <Controls>
+      <BindingNavigator Name="ProvedoresBindingNavigator" Caption="Provedores Binding Navigator" Bookmark="ProvedoresBindingNavigator" Description="" ClassName="BindingNavigator" TabIndex="4" HotSpot="9,38,948,65" />
+      <ComboBox Name="cboReporte" Caption="Reporte" Bookmark="Label1" Description="" ClassName="ComboBox" TabIndex="6" HotSpot="89,98,210,122" />
+      <Label Name="Label1" Caption="Reporte" Bookmark="Label1" Description="" ClassName="Label" TabIndex="7" HotSpot="22,98,81,115" />
+      <Label Name="Label2" Caption="Periodo" Bookmark="Label2" Description="" ClassName="Label" TabIndex="8" HotSpot="265,101,322,118" />
+      <DateTimePicker Name="dtpDesde" Caption="Periodo" Bookmark="Label2" Description="" ClassName="DateTimePicker" TabIndex="9" HotSpot="328,98,596,120" />
+      <Label Name="Label3" Caption="a" Bookmark="Label3" Description="" ClassName="Label" TabIndex="10" HotSpot="620,101,636,118" />
+      <DateTimePicker Name="dtpHasta" Caption="a" Bookmark="Label3" Description="" ClassName="DateTimePicker" TabIndex="11" HotSpot="641,98,909,120" />
+      <Label Name="errores" Caption="." Bookmark="errores" Description="" ClassName="Label" TabIndex="12" HotSpot="25,69,37,86" />
+      <Panel Name="Panel1" Caption="Panel1" Bookmark="Panel1" Description="" ClassName="Panel" TabIndex="13" PicFileName="images\Panel1.png" HotSpot="33,135,910,322">
+        <Controls>
+          <CheckBox Name="chkProducto" Caption="Producto" Bookmark="chkProducto" Description="" ClassName="CheckBox" TabIndex="1" HotSpot="21,18,108,39" />
+          <ComboBox Name="cmbProducto" Caption="Producto" Bookmark="cmbProducto" Description="" ClassName="ComboBox" TabIndex="2" HotSpot="128,16,288,40" />
+          <Button Name="btnReporte" Caption="Reporte" Bookmark="btnReporte" Description="" ClassName="Button" TabIndex="3" HotSpot="691,16,791,44" />
+          <ComboBox Name="cmbMate" Caption="Cantidad" Bookmark="Label6" Description="" ClassName="ComboBox" TabIndex="4" HotSpot="403,16,563,40" />
+          <Panel Name="pnlMayor" Caption="Mayor" Bookmark="pnlMayor" Description="" ClassName="Panel" TabIndex="5" PicFileName="images\pnlMayor.png" HotSpot="28,84,261,157">
+            <Controls>
+              <TextBox Name="txtMayor" Caption="Mayor" Bookmark="txtMayor" Description="" ClassName="TextBox" TabIndex="0" HotSpot="100,21,209,43" />
+            </Controls>
+          </Panel>
+          <Panel Name="pnlMenor" Caption="Menor" Bookmark="pnlMenor" Description="" ClassName="Panel" TabIndex="6" PicFileName="images\pnlMenor.png" HotSpot="271,84,503,157">
+            <Controls>
+              <TextBox Name="txtMenor" Caption="Menor" Bookmark="txtMenor" Description="" ClassName="TextBox" TabIndex="1" HotSpot="117,21,226,43" />
+            </Controls>
+          </Panel>
+          <Panel Name="pnlEntre" Caption="Entre" Bookmark="pnlEntre" Description="" ClassName="Panel" TabIndex="7" PicFileName="images\pnlEntre.png" HotSpot="511,84,854,157">
+            <Controls>
+              <TextBox Name="txtEntre" Caption="Entre" Bookmark="txtEntre" Description="" ClassName="TextBox" TabIndex="2" HotSpot="19,21,128,43" />
+              <TextBox Name="txtHasta" Caption="a" Bookmark="Label7" Description="" ClassName="TextBox" TabIndex="3" HotSpot="209,21,318,43" />
+              <Label Name="Label7" Caption="a" Bookmark="Label7" Description="" ClassName="Label" TabIndex="9" HotSpot="159,25,175,42" />
+            </Controls>
+          </Panel>
+          <Label Name="Label6" Caption="Cantidad" Bookmark="Label6" Description="" ClassName="Label" TabIndex="8" HotSpot="320,20,384,37" />
+        </Controls>
+      </Panel>
+      <Panel Name="Panel2" Caption="Panel2" Bookmark="Panel2" Description="" ClassName="Panel" TabIndex="14" PicFileName="images\Panel2.png" HotSpot="33,342,496,506">
+        <Controls>
+          <Button Name="btnFactura" Caption="Facturar" Bookmark="btnFactura" Description="" ClassName="Button" TabIndex="1" HotSpot="324,95,424,123" />
+          <TextBox Name="txtFolio" Caption="Folio" Bookmark="Label4" Description="" ClassName="TextBox" TabIndex="2" HotSpot="128,23,260,45" />
+          <TextBox Name="txtRFC" Caption="RFC" Bookmark="Label5" Description="" ClassName="TextBox" TabIndex="3" HotSpot="128,68,260,90" />
+          <Label Name="Label4" Caption="Folio" Bookmark="Label4" Description="" ClassName="Label" TabIndex="4" HotSpot="52,27,90,44" />
+          <Label Name="Label5" Caption="RFC" Bookmark="Label5" Description="" ClassName="Label" TabIndex="5" HotSpot="52,71,87,88" />
+        </Controls>
+      </Panel>
+    </Controls>
+  </Body>
+</Form>

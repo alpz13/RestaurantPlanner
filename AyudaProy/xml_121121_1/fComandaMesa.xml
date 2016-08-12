@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Form Name="fComandaMesa" Text="Comanda Mesa" WindowSize="695, 554" ClientAreaOffset="9, 38" BorderStyle="2" HasMap="True" PicFileName="images\fComandaMesa.png" HtmlFileName="fComandaMesa.htm" SourceProjectType="VB.NET" SourceProjectName="Proyecto" OriginalClassName="VB.NET" HWND="1312730">
+  <Body>
+    <Controls>
+      <Button Name="btnPagar" Caption="btnPagar" Bookmark="btnPagar" Description="" ClassName="Button" TabIndex="14" HotSpot="602,279,658,331" />
+      <Button Name="btnFacturar" Caption="btnFacturar" Bookmark="btnFacturar" Description="" ClassName="Button" TabIndex="15" HotSpot="602,352,658,404" />
+      <Button Name="btnRegresar" Caption="btnRegresar" Bookmark="btnRegresar" Description="" ClassName="Button" TabIndex="56" HotSpot="1054,373,1110,417" />
+      <Button Name="btnAgregar" Caption="btnAgregar" Bookmark="btnAgregar" Description="" ClassName="Button" TabIndex="57" HotSpot="602,205,658,257" />
+      <Button Name="btnEliminar" Caption="btnEliminar" Bookmark="btnEliminar" Description="" ClassName="Button" TabIndex="58" HotSpot="600,443,656,495" />
+      <ComboBox Name="cmbEstados" Caption="Estado" Bookmark="lblEstado" Description="" ClassName="ComboBox" TabIndex="59" HotSpot="120,53,299,77" />
+      <Label Name="lblEstado" Caption="Estado" Bookmark="lblEstado" Description="" ClassName="Label" TabIndex="60" HotSpot="38,55,106,79" />
+      <Button Name="btnComenzar" Caption="Comenzar" Bookmark="btnComenzar" Description="" ClassName="Button" TabIndex="61" HotSpot="317,50,430,98" />
+      <Button Name="btnTerminar" Caption="Terminar" Bookmark="btnTerminar" Description="" ClassName="Button" TabIndex="62" HotSpot="438,50,558,98" />
+      <Label Name="lblFolio" Caption="lblFolio" Bookmark="lblFolio" Description="" ClassName="Label" TabIndex="63" HotSpot="581,64,581,84" />
+      <Button Name="Button1" Caption="Button1" Bookmark="Button1" Description="" ClassName="Button" TabIndex="64" HotSpot="602,125,658,169" />
+      <Label Name="lblAPagar" Caption="Persona a pagar" Bookmark="lblAPagar" Description="" ClassName="Label" TabIndex="65" HotSpot="38,503,170,523" />
+      <Label Name="lblGrupo" Caption="Grupo" Bookmark="lblGrupo" Description="" ClassName="Label" TabIndex="66" HotSpot="313,503,368,523" />
+    </Controls>
+  </Body>
+</Form>

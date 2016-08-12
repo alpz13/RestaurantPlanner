@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Form Name="fMesas" Text="Mesas" WindowSize="562, 358" ClientAreaOffset="9, 38" BorderStyle="2" HasMap="True" PicFileName="images\fMesas.png" HtmlFileName="fMesas.htm" SourceProjectType="VB.NET" SourceProjectName="Proyecto" OriginalClassName="VB.NET" HWND="2099056">
+  <Body>
+    <Controls>
+      <TextBox Name="idMesaText" Caption="Número de Mesa" Bookmark="Label3" Description="" ClassName="TextBox" TabIndex="9" HotSpot="206,85,393,107" />
+      <Label Name="Label3" Caption="Número de Mesa" Bookmark="Label3" Description="" ClassName="Label" TabIndex="10" HotSpot="22,90,138,107" />
+      <Label Name="Label1" Caption="Tipo de Mesa" Bookmark="Label1" Description="" ClassName="Label" TabIndex="11" HotSpot="22,143,116,160" />
+      <Label Name="Label2" Caption="Capacidad de Personas" Bookmark="Label2" Description="" ClassName="Label" TabIndex="12" HotSpot="22,194,181,211" />
+      <Label Name="Label4" Caption="Estado de Mesa" Bookmark="Label4" Description="" ClassName="Label" TabIndex="13" HotSpot="22,248,132,265" />
+      <ComboBox Name="cmbTipoMesa" Caption="Tipo de Mesa" Bookmark="Label1" Description="" ClassName="ComboBox" TabIndex="14" HotSpot="206,139,393,163" />
+      <TextBox Name="txtCapacidad" Caption="Capacidad de Personas" Bookmark="Label2" Description="" ClassName="TextBox" TabIndex="15" HotSpot="206,191,393,213" />
+      <ComboBox Name="cmbEstadoMesa" Caption="Estado de Mesa" Bookmark="Label4" Description="" ClassName="ComboBox" TabIndex="16" HotSpot="206,239,393,263" />
+      <Button Name="btnBuscar" Caption="btnBuscar" Bookmark="btnBuscar" Description="" ClassName="Button" TabIndex="61" HotSpot="418,82,474,124" />
+      <Button Name="btnClear" Caption="btnClear" Bookmark="btnClear" Description="" ClassName="Button" TabIndex="63" HotSpot="418,135,474,179" />
+      <Panel Name="pnlEdicion" Caption="Edicion" Bookmark="pnlEdicion" Description="" ClassName="Panel" TabIndex="69" PicFileName="images\pnlEdicion.png" HotSpot="481,74,544,239">
+        <Controls>
+          <Button Name="btnAgregar" Caption="btnAgregar" Bookmark="btnAgregar" Description="" ClassName="Button" TabIndex="51" HotSpot="4,9,60,55" />
+          <Button Name="btnEliminar" Caption="btnEliminar" Bookmark="btnEliminar" Description="" ClassName="Button" TabIndex="52" HotSpot="4,62,60,106" />
+          <Button Name="btnModificar" Caption="btnModificar" Bookmark="btnModificar" Description="" ClassName="Button" TabIndex="53" HotSpot="4,113,60,159" />
+        </Controls>
+      </Panel>
+      <Label Name="lblMensajes" Caption="lblMensajes" Bookmark="lblMensajes" Description="" ClassName="Label" TabIndex="70" HotSpot="25,49,25,66" />
+      <Label Name="lblTotal" Caption="lblTotal" Bookmark="lblTotal" Description="" ClassName="Label" TabIndex="71" HotSpot="369,49,369,66" />
+    </Controls>
+  </Body>
+</Form>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Form Name="SplashScreen" Text="SplashScreen" WindowSize="498, 305" ClientAreaOffset="1, 1" BorderStyle="1" HasMap="True" PicFileName="images\SplashScreen.png" HtmlFileName="SplashScreen.htm" SourceProjectType="VB.NET" SourceProjectName="Proyecto" OriginalClassName="VB.NET" HWND="3345252">
+  <Body>
+    <Controls>
+      <TableLayoutPanel Name="MainLayoutPanel" Caption="Main Layout Panel" Bookmark="MainLayoutPanel" Description="" ClassName="TableLayoutPanel" TabIndex="0" PicFileName="images\MainLayoutPanel.png" HotSpot="1,1,497,304">
+        <Controls>
+          <Label Name="ApplicationTitle" Caption="Gestor de Restaurantes" Bookmark="ApplicationTitle" Description="" ClassName="Label" TabIndex="0" HotSpot="246,3,493,215" />
+          <TableLayoutPanel Name="DetailsLayoutPanel" Caption="Details Layout Panel" Bookmark="DetailsLayoutPanel" Description="" ClassName="TableLayoutPanel" TabIndex="1" PicFileName="images\DetailsLayoutPanel.png" HotSpot="246,221,493,300">
+            <Controls>
+              <Label Name="Version" Caption="Versión 21/10/12" Bookmark="Version" Description="" ClassName="Label" TabIndex="1" HotSpot="3,9,244,29" />
+              <Label Name="Copyright" Caption="GMAD Software Solutions" Bookmark="Copyright" Description="" ClassName="Label" TabIndex="2" HotSpot="3,39,244,79" />
+            </Controls>
+          </TableLayoutPanel>
+        </Controls>
+      </TableLayoutPanel>
+    </Controls>
+  </Body>
+</Form>
